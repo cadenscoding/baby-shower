@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
+
+body {
+  background-image: url("https://i.pinimg.com/originals/8b/30/a0/8b30a056a11b3053248b549542271007.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+
+.info-wrapper{
+  padding:2rem;
+  border-radius:8rem;
+  margin:auto;
+  width:50%;
+   background:#d1e0e0;
+}
+.invite-content{font-family: "Kalam", cursive;
+  font-weight: 300;
+  text-align:center;
+}
+.links{font-family: "Crimson Text", serif;
+  margin:auto;
+  width:50%;
+  height:5rem;
+  text-align:center;
+}
+.push{color:black;
+  text-decoration:none;
+  font-size:x-large;
+  padding:1rem;
+}
+
+p{font-family: "Crimson Text", serif;
+  text-align:center;
+}
+
+.registry{
+  text-align: center;
+  font-size: larger;
+  padding:1rem;
+}
