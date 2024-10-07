@@ -23,6 +23,7 @@ body {
   width:50%;
   height:5rem;
   text-align:center;
+  padding:1rem;
 }
 .push{color:black;
   text-decoration:none;
@@ -39,3 +40,4 @@ p{font-family: "Crimson Text", serif;
   font-size: larger;
   padding:1rem;
 }
+.first{padding:1rem;}
